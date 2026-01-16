@@ -1,10 +1,10 @@
-<h2 id="sobre-o-projeto">1. 💻 TecBlog: O seu Blog de Tecnologia 💻</h2>
+<h2 id="tecblog">1. 💻 TecBlog: O seu Blog de Tecnologia 💻</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
-![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS-blueviolet)
+![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML5%20%7C%20CSS3-blueviolet)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/tecblog/blob/main/LICENSE)
 
-![Preview do TecBlog](src/imagens/tecblog-preview.png)
+![Preview do TecBlog](src/imagens/tecblog.png)
 
 Bem-vindo ao **TecBlog**! Este projeto consiste na criação de um blog de tecnologia com um layout limpo e funcional. Ele explora a organização de conteúdos em feeds de notícias, utilizando uma barra lateral para navegação rápida entre categorias e postagens recentes. É um excelente estudo de como gerenciar áreas de cabeçalho dinâmicas e containers de conteúdo principal.
 
@@ -12,16 +12,41 @@ Bem-vindo ao **TecBlog**! Este projeto consiste na criação de um blog de tecno
 
 ## 📚 Tabela de Conteúdo
 
-| 💻 O Projeto | 🛠️ Técnico | 🤝 Comunidade |
+| 📍 O Projeto | 🛠️ Desenvolvimento | 💬 Suporte & Info |
 | :---: | :---: | :---: |
-| [![1. Sobre](https://img.shields.io/badge/1%20-%20Sobre-4CAF50)](#sobre-o-projeto) | [![5. Destaques](https://img.shields.io/badge/5%20-%20Destaques-607D8B)](#destaques-tecnicos) | [![9. Código](https://img.shields.io/badge/9%20-%20Código-795548)](#codigo-fonte) |
-| [![2. Techs](https://img.shields.io/badge/2%20-%20Techs-2196F3)](#tecnologias-utilizadas) | [![6. Repositório](https://img.shields.io/badge/6%20-%20Repo-009688)](#codigo-fonte) | [![10. Créditos](https://img.shields.io/badge/10%20-%20Créditos-607D8B)](#créditos) |
-| [![3. Acessar](https://img.shields.io/badge/3%20-%20Acessar-FF9800)](#como-acessar) | [![7. Contribuir](https://img.shields.io/badge/7%20-%20Contribuir-3F51B5)](#como-contribuir) | [![11. Licença](https://img.shields.io/badge/11%20-%20Licença-E91E63)](#licenca) |
-| [![4. Funções](https://img.shields.io/badge/4%20-%20Funções-9C27B0)](#funcionalidades) | [![8. FAQ](https://img.shields.io/badge/8%20-%20FAQ-FFC107)](#faq) | [![12. Perfil](https://img.shields.io/badge/12%20-%20Perfil-212121)](#perfil-do-github) |
+| [![1. Sobre](https://img.shields.io/badge/1%20-%20Sobre-4CAF50)](#sobre) | [![5. Tecnologias](https://img.shields.io/badge/5%20-%20Tecnologias-795548)](#tecnologias-utilizadas) | [![9. Código](https://img.shields.io/badge/9%20-%20Código%20Fonte-FFC107)](#codigo-fonte) |
+| [![2. Aplicação](https://img.shields.io/badge/2%20-%20Acesse%20a%20Aplicação-2196F3)](#acesse-a-aplicacao) | [![6. Contribuir](https://img.shields.io/badge/6%20-%20Como%20Contribuir-009688)](#como-contribuir) | [![10. Créditos](https://img.shields.io/badge/10%20-%20Créditos-607D8B)](#creditos) |
+| [![3. Sobre](https://img.shields.io/badge/3%20-%20Sobre-FF9800)](#sobre) | [![7. Instalação](https://img.shields.io/badge/7%20-%20Instalação-607D8B)](#instalacao-local) | [![11. Licença](https://img.shields.io/badge/11%20-%20Licença-E91E63)](#licenca) |
+| [![4. Como Usar](https://img.shields.io/badge/4%20-%20Como%20Usar-9C27B0)](#como-usar) | [![8. FAQ](https://img.shields.io/badge/8%20-%20FAQ-3F51B5)](#perguntas-frequentes) | [![12. Perfil](https://img.shields.io/badge/12%20-%20Perfil-212121)](#perfil-do-github) |
 
 ---
 
-<h2 id="tecnologias-utilizadas">2. ⚙️ Tecnologias Utilizadas</h2>
+<h2 id="acesse-a-aplicacao">2. 🔗 Acesse a Aplicação</h2>
+
+Navegue pelas notícias de tecnologia do TecBlog clicando no botão abaixo:
+
+<a href="https://domisnnet.github.io/Tecblog/" target="_blank">
+  <img alt="Botão Acessar Dashboard" src="src/imagens/botão.webp" width="70" />
+</a>
+
+---
+
+<h2 id="sobre">3. 🚀 Sobre a Aplicação</h2> 
+
+O **TecBlog** é uma aplicação web de interface clássica focada na experiência de leitura. O projeto demonstra o domínio de estruturação HTML semântica e estilização CSS para criar um layout com área principal de postagens e uma barra lateral de navegação (sidebar), garantindo uma hierarquia visual clara para o usuário.
+
+---
+
+<h2 id="como-usar">4. 🎮 Como Usar</h2>
+
+1.  **Acesse o link:** Utilize o botão na seção 2 para abrir o blog.
+2.  **Navegação:** Use o menu superior para filtrar por categorias (Jogos, Celulares, etc).
+3.  **Leitura:** Clique nos títulos das postagens para ler o conteúdo completo.
+4.  **Sidebar:** Acompanhe as postagens recentes e links úteis na barra à direita.
+
+---
+
+<h2 id="tecnologias-utilizadas">5. ⚙️ Tecnologias Utilizadas</h2>
 
 | Camada | Tecnologias | Descrição |
 | :--- | :--- | :--- |
@@ -31,106 +56,88 @@ Bem-vindo ao **TecBlog**! Este projeto consiste na criação de um blog de tecno
 
 ---
 
-<h2 id="como-acessar">3. 🚀 Como Acessar</h2>
+<h2 id="como-contribuir">6. 🤝 Como Contribuir</h2>
 
-Navegue pelas notícias de tecnologia do TecBlog clicando no botão abaixo:
-
-<div align="left">
-  <a href="https://domisnnet.github.io/tecblog/" target="_blank">
-    <img alt="Botão Acessar" src="src/imagens/botão.webp" height="70" width="70" />
-  </a>
-</div>
-
----
-
-<h2 id="funcionalidades">4. 🧩 Funcionalidades Principais</h2>
-
-O TecBlog foi estruturado para oferecer uma experiência clássica de blog:
-
-| Funcionalidade | Descrição |
-| :--- | :--- |
-| 📰 **Feed de Notícias** | Exibição de postagens com título, data, imagem e resumo. |
-| 🏷️ **Categorização** | Links rápidos para filtrar por Jogos, Celulares, Informática, etc. |
-| 🔍 **Barra Lateral** | Acesso direto às postagens recentes e links de utilidade. |
-| 🔝 **Menu de Cabeçalho** | Navegação persistente entre as páginas principais do portal. |
-| 📖 **Leitura Focada** | Layout centralizado que prioriza o conforto visual do leitor. |
-
----
-
-<h2 id="destaques-tecnicos">5. 💻 Destaques Técnicos</h2>
-
-A construção do TecBlog aplicou fundamentos essenciais de CSS:
-
-### 📐 Organização por IDs e Classes
-Utilização estratégica de IDs para os grandes blocos estruturais (Cabeçalho, Área Principal, Lateral) e classes reutilizáveis para os cartões de postagem, otimizando o código CSS.
-
-### 🔄 Manipulação de Display
-O layout utiliza técnicas de posicionamento para manter a barra lateral fixa ao lado do conteúdo de postagens, garantindo que o design não "quebre" ao adicionar novos parágrafos.
-
----
-
-<h2 id="codigo-fonte">6. 📂 Repositório</h2>
-
-Explore o código fonte e as imagens do projeto:
-
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2Ftecblog-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/tecblog)
-
----
-
-<h2 id="como-contribuir">7. 🤝 Como Contribuir</h2>
-
-Siga os passos abaixo para fortalecer este blog:
+Ajude a evoluir o TecBlog! Siga os passos abaixo para contribuir:
 
 | Fase | Ação | Link / Comando |
 | :---: | :--- | :--- |
-| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/tecblog/fork) |
-| **02** | **Branch** | `git checkout -b feature/NovoPost` |
-| **03** | **Commit** | `git commit -m 'feat: adição da postagem sobre IA'` |
-| **04** | **Push** | `git push origin feature/NovoPost` |
-| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/tecblog/compare) |
+| **01** | **Prepare o Terreno** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/tecblog/fork) |
+| **02** | **Crie uma Branch** | `git checkout -b feature/NovaMelhoria` |
+| **03** | **Guarde as Mudanças** | `git commit -m 'feat: Adiciona nova funcionalidade'` |
+| **04** | **Envie o Código** | `git push origin feature/NovaMelhoria` |
+| **05** | **Desafio Final** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/tecblog/compare) |
+
+### 🐛 Encontrou um problema?
+Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
+
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/GitHub-Stats?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Tecblog/issues)
+[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Tecblog/issues/new)
 
 ---
 
-<h2 id="faq">8. 🧠 Perguntas Frequentes</h2>
+<h2 id="instalacao-local">7. 🚀 Instalação e Configuração Local</h2>
+
+```bash
+# Clonar o repositório
+git clone [https://github.com/Domisnnet/tecblog.git](https://github.com/Domisnnet/tecblog.git)
+
+# Acessar a pasta
+cd tecblog
+
+# Executar
+# Abra o arquivo index.html no seu navegador.
+```
+---
+
+<h2 id="perguntas-frequentes">8. 🤔 Perguntas Frequentes</h2>
 
 <details>
 <summary><strong>Como adicionar uma nova postagem ❓</strong></summary>
-<p>✍️ <strong>Resposta:</strong> Basta copiar a <code>&lt;div class="postagem"&gt;</code>, preencher com o novo conteúdo e colar dentro da <code>#area-postagens</code>.</p>
+<p>✍️ <strong>Resposta:</strong> Basta copiar a estrutura da classe <code>postagem</code> no HTML e preencher com seu novo conteúdo.</p>
 </details>
 
 <details>
-<summary><strong>O layout é responsivo ❓</strong></summary>
-<p>📱 <strong>Resposta:</strong> Este projeto foca no layout desktop fixo. Para torná-lo responsivo, seriam necessárias Media Queries para empilhar a sidebar abaixo do conteúdo em telas menores.</p>
+<summary><strong>O site é responsivo ❓</strong></summary>
+<p>📱 <strong>Resposta:</strong> Atualmente o layout é fixo para desktop. Uma ótima melhoria futura seria a implementação de media queries para dispositivos móveis.</p>
+</details>
+
+<details>
+<summary><strong>Posso usar este código como base para meu blog ❓</strong></summary>
+<p>✅ <strong>Com certeza!</strong> O projeto está sob licença MIT, então sinta-se livre para clonar, adaptar e utilizar como quiser. Só não se esqueça de dar os devidos Créditos!!</p>
 </details>
 
 ---
 
 <h2 id="codigo-fonte">9. 💻 Código Fonte</h2>
 
-Confira os estilos e a estrutura do TecBlog:
+Gostou da estrutura? Para ver o código-fonte detalhado e contribuir com o projeto, acesse:
 
-[![Código](https://img.shields.io/badge/Código%20Fonte-Acessar-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/tecblog/tree/main)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2Ftecblog-blue?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Tecblog)
 
 ---
 
-<h2 id="créditos">10. 📝 Créditos & Reconhecimentos</h2>
+<h2 id="creditos">10. 📝 Créditos</h2>
 
-O TecBlog é um reflexo dos estudos sobre arquitetura de informação:
+O **TecBlog** foi desenvolvido como parte de um estudo aprofundado sobre CSS e arquitetura web:
 
-| Atribuição | Responsável / Recurso | Descrição |
+| Atribuição | Responsável | Descrição |
 | :--- | :--- | :--- |
-| **Dev & Design** | **DomisDev** | Desenvolvimento front-end e estilização do portal. |
-| **Conteúdo** | **Lorem Ipsum** | Textos temporários para demonstração de layout. |
-| **Apoio Técnico** | **Google Gemini** | Padronização King-Domfy e refinamento documental. |
+| **Dev & Design** | **DomisDev** | Desenvolvimento front-end e estilização. |
+| **Mentoria** | **Mega Sênior** | Padronização de documentação e melhores práticas. |
 
 ---
 
 <h2 id="licenca">11. 📄 Licença</h2>
 
-Este projeto está sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/tecblog/blob/main/LICENSE)
+Este projeto é *open source* e está licenciado sob a [![Licença MIT](https://img.shields.io/github/license/Domisnnet/tecblog)](https://github.com/Domisnnet/Tecblog/blob/main/LICENSE)
 
 ---
 
 <h2 id="perfil-do-github">12. 👨‍💻 Perfil do GitHub</h2>
 
-<a href="https://github.com/Domisnnet"> <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> </a>
+Clique na imagem abaixo para conferir outros projetos no meu perfil:
+
+<a href="https://github.com/Domisnnet"> 
+  <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> 
+</a>
