@@ -26,6 +26,11 @@ body {
 	padding: 15px;
 }
 
+#area-principal a:hover {
+	text-decoration: none;
+
+}
+
 #area-postagens {
 	width: 660px;
 	float: left;

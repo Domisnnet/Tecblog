@@ -1,0 +1,8 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "[html]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  }
+}
