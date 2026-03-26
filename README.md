@@ -62,11 +62,11 @@ Ajude a evoluir o TecBlog! Siga os passos abaixo para contribuir:
 
 | Fase | Ação | Link / Comando |
 | :---: | :--- | :--- |
-| **01** | **Prepare o Terreno** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/tecblog/fork) |
+| **01** | **Prepare o Terreno** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Tecblog/fork) |
 | **02** | **Crie uma Branch** | `git checkout -b feature/NovaMelhoria` |
 | **03** | **Guarde as Mudanças** | `git commit -m 'feat: Adiciona nova funcionalidade'` |
 | **04** | **Envie o Código** | `git push origin feature/NovaMelhoria` |
-| **05** | **Desafio Final** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/tecblog/compare) |
+| **05** | **Desafio Final** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Tecblog/compare) |
 
 ### 🐛 Encontrou um problema?
 Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
@@ -80,10 +80,10 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 ```bash
 # Clonar o repositório
-git clone [https://github.com/Domisnnet/tecblog.git](https://github.com/Domisnnet/tecblog.git)
+git clone [https://github.com/Domisnnet/Tecblog.git](https://github.com/Domisnnet/Tecblog.git)
 
 # Acessar a pasta
-cd tecblog
+cd Tecblog
 
 # Executar
 # Abra o arquivo index.html no seu navegador.
@@ -113,7 +113,7 @@ cd tecblog
 
 Gostou da estrutura? Para ver o código-fonte detalhado e contribuir com o projeto, acesse:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2Ftecblog-blue?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Tecblog)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FTecblog-blue?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Tecblog)
 
 ---
 
@@ -130,7 +130,7 @@ O **TecBlog** foi desenvolvido como parte de um estudo aprofundado sobre CSS e a
 
 <h2 id="licenca">11. 📄 Licença</h2>
 
-Este projeto é *open source* e está licenciado sob a [![Licença MIT](https://img.shields.io/github/license/Domisnnet/tecblog)](https://github.com/Domisnnet/Tecblog/blob/main/LICENSE)
+Este projeto é *open source* e está licenciado sob a [![Licença MIT](https://img.shields.io/github/license/Domisnnet/Tecblog)](https://github.com/Domisnnet/Tecblog/blob/main/LICENSE)
 
 ---
 
@@ -139,5 +139,5 @@ Este projeto é *open source* e está licenciado sob a [![Licença MIT](https://
 Clique na imagem abaixo para conferir outros projetos no meu perfil:
 
 <a href="https://github.com/Domisnnet"> 
-  <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> 
+  <img src="src/imagens/DomisDev.png" width="90" alt="Acessar perfil GitHub"> 
 </a>
