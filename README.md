@@ -25,7 +25,7 @@ Bem-vindo ao **TecBlog**! Este projeto consiste na criação de um blog de tecno
 
 Navegue pelas notícias de tecnologia do TecBlog clicando no botão abaixo:
 
-<a href="https://domisnnet.github.io/Tecblog/" target="_blank">
+<a href="https://github.com/Domisnnet/Tecblog" target="_blank">
   <img alt="Botão Acessar Dashboard" src="src/imagens/botão.webp" width="70" />
 </a>
 
