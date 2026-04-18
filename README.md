@@ -19,8 +19,8 @@ Bem-vindo ao **TecBlog**! Este projeto consiste na criação de um blog de tecno
 | 📍 O Projeto | 🛠️ Desenvolvimento | 💬 Suporte & Info |
 | :---: | :---: | :---: |
 | [![1. Sobre](https://img.shields.io/badge/1%20-%20Sobre-4CAF50)](#sobre) | [![5. Tecnologias](https://img.shields.io/badge/5%20-%20Tecnologias-795548)](#tecnologias-utilizadas) | [![9. Código](https://img.shields.io/badge/9%20-%20Código%20Fonte-FFC107)](#codigo-fonte) |
-| [![2. Aplicação](https://img.shields.io/badge/2%20-%20Acesse%20a%20Aplicação-2196F3)](#acesse-a-aplicacao) | [![6. Contribuir](https://img.shields.io/badge/6%20-%20Como%20Contribuir-009688)](#como-contribuir) | [![10. Créditos](https://img.shields.io/badge/10%20-%20Créditos-607D8B)](#creditos) |
-| [![3. Sobre](https://img.shields.io/badge/3%20-%20Sobre-FF9800)](#sobre) | [![7. Instalação](https://img.shields.io/badge/7%20-%20Instalação-607D8B)](#instalacao-local) | [![11. Licença](https://img.shields.io/badge/11%20-%20Licença-E91E63)](#licenca) |
+| [![2. Aplicação](https://img.shields.io/badge/2%20-%20Acesse%20a%20Aplicação-2196F3)](#acesse-a-aplicacao) | [![6. Instalação](https://img.shields.io/badge/7%20-%20Instalação-607D8B)](#instalacao-local) | [![10. Créditos](https://img.shields.io/badge/10%20-%20Créditos-607D8B)](#creditos) |
+| [![3. Sobre](https://img.shields.io/badge/3%20-%20Sobre-FF9800)](#sobre) | [![7. Contribuir](https://img.shields.io/badge/6%20-%20Como%20Contribuir-009688)](#como-contribuir) | [![11. Licença](https://img.shields.io/badge/11%20-%20Licença-E91E63)](#licenca) |
 | [![4. Como Usar](https://img.shields.io/badge/4%20-%20Como%20Usar-9C27B0)](#como-usar) | [![8. FAQ](https://img.shields.io/badge/8%20-%20FAQ-3F51B5)](#perguntas-frequentes) | [![12. Perfil](https://img.shields.io/badge/12%20-%20Perfil-212121)](#perfil-do-github) |
 
 ---
@@ -60,7 +60,22 @@ O **TecBlog** é uma aplicação web de interface clássica focada na experiênc
 
 ---
 
-<h2 id="como-contribuir">6. 🤝 Como Contribuir</h2>
+<h2 id="instalacao-local">6. 🚀 Instalação e Configuração Local</h2>
+
+```bash
+# Clonar o repositório
+git clone [https://github.com/Domisnnet/tecblog.git](https://github.com/Domisnnet/Tecblog-Web-Essentials.git)
+
+# Acessar a pasta
+cd Tecblog-Web-Essentials
+
+# Executar
+# Abra o arquivo index.html no seu navegador.
+```
+
+---
+
+<h2 id="como-contribuir">7. 🤝 Como Contribuir</h2>
 
 Ajude a evoluir o TecBlog! Siga os passos abaixo para contribuir:
 
@@ -78,20 +93,6 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 [![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/GitHub-Stats?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Tecblog-Web-Essentials/issues)
 [![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Tecblog-Web-Essentials/issues/new)
 
----
-
-<h2 id="instalacao-local">7. 🚀 Instalação e Configuração Local</h2>
-
-```bash
-# Clonar o repositório
-git clone [https://github.com/Domisnnet/tecblog.git](https://github.com/Domisnnet/Tecblog-Web-Essentials.git)
-
-# Acessar a pasta
-cd Tecblog-Web-Essentials
-
-# Executar
-# Abra o arquivo index.html no seu navegador.
-```
 ---
 
 <h2 id="perguntas-frequentes">8. 🤔 Perguntas Frequentes</h2>
